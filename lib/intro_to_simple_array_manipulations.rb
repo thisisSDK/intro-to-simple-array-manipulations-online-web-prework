@@ -1,3 +1,4 @@
+
 def using_push(array, string)
   array.push("Niger")
 end
@@ -20,4 +21,9 @@ end
 
 def shift_with_args(array)
   array.shift(2)
+end 
+
+def using_concat(array1, array2)
+  
+  
 end 
